@@ -1,2 +1,0 @@
-This is the 1st of b file
-This is the 2nd change of b file
